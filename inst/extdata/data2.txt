@@ -1,0 +1,26 @@
+id	Raw_p	Enrichment_Ratio
+Porphyrin Metabolism	0.000013811	9.465949466
+Spermidine and Spermine Biosynthesis	0.000041042	8.765798766
+Phenylalanine and Tyrosine Metabolism	0.00017102	8.244948245
+Biotin Metabolism	0.00023546	8.322938323
+Pyrimidine Metabolism	0.00036983	6.546216546
+Lysine Degradation	0.0012835	5.846835847
+Vitamin B6 Metabolism	0.001567	7.136367136
+Retinol Metabolism	0.0027081	6.707256707
+Methylhistidine Metabolism	0.0045795	6.256696257
+Arginine and Proline Metabolism	0.0059116	5.401005401
+Ammonia Recycling	0.0070981	4.524744525
+Sphingolipid Metabolism	0.010127	4.253264253
+Glycine and Serine Metabolism	0.011055	5.36030536
+Histidine Metabolism	0.01201	4.877624878
+Aspartate Metabolism	0.012195	5.287485287
+Urea Cycle	0.0123	5.281215281
+Starch and Sucrose Metabolism	0.014492	5.121605122
+Galactose Metabolism	0.016443	4.983334983
+Carnitine Synthesis	0.017524	3.41022341
+Ubiquinone Biosynthesis	0.021811	4.664224664
+Estrone Metabolism	0.021811	4.664224664
+Citric Acid Cycle	0.044583	3.796323796
+Mitochondrial Electron Transport Chain	0.044583	3.796323796
+Thiamine Metabolism	0.065487	3.295383295
+Purine Metabolism	0.067175	3.243903244
